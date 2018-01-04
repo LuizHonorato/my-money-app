@@ -4,7 +4,7 @@ export default props => (
     <footer className='main-footer'>
         <strong>
             Copyright &copy; 2018
-            <a href='http://cod3er.com.br' target='_blank'> Cod3r</a>
+            <a href='http://mymoney.com.br' target='_blank'> MyMoney</a>
         </strong>
     </footer>
 )
